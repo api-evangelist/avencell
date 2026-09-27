@@ -1,7 +1,6 @@
 aid: avencell
 name: Avencell
-description: 'Avencell is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+description: 'Avencell develops next‑generation immunotherapies, focusing on powerful, targeted, and safe CAR‑T cell platforms. Their proprietary switchable CAR technology enables precise control of T‑cell activity, improving therapeutic windows and reducing side effects. Avencell aims to overcome limitations of current cell therapies to treat hard‑to‑treat cancers worldwide.'
 url: https://raw.githubusercontent.com/api-evangelist/avencell/refs/heads/main/apis.yml
 x-type: company
 x-source: harvest:secondary-market
@@ -11,6 +10,10 @@ specificationVersion: '0.20'
 created: '2026-09-26'
 modified: '2026-09-26'
 tags:
+- Biotechnology
+- Immunotherapy
+- CAR-T
+- Healthcare
 - Company
 apis: []
 maintainers:
